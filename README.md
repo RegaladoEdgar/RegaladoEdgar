@@ -1,16 +1,23 @@
-### Hi there 👋
+![](https://images.cooltext.com/5465947.png) 
 
-<!--
-**RegaladoEdgar/RegaladoEdgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
-Here are some ideas to get you started:
+Actualmente estudiante de ingeniería en sistemas computacionales en el **Instituto Tecnológico de Tijuana**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Educación anterior
+* Escuela Secundaria No.25
+* COBACH Plantel Rubén Vizcaíno Valencia
+
+cuenta para uso ***académico***.
+
+Este es mi horario de clases:
+
+|  Hora  | Lunes  | Martes  |  Miércoles | Jueves  | Viernes  |
+|---|---|---|---|---|---|
+|  11:00  |  Simulación | Simulación  | Simulación  | Simulación  |  Simulación |
+|  12:00  |   |   |   |   |   |
+|  13:00  | T. Bases de datos  |  T. Bases de datos | T. Bases de datos  |  T. Bases de datos |   |
+|  14:00  | L. de Interfaz  | L. de Interfaz  |  L. de Interfaz | L. de Interfaz  |   |
+|  15:00  | T. de Sistemas  |  T. de Sistemas | T. de Sistemas  |  T. de Sistemas |   |
+|  16:00  | F. de Telecom.  |  F. de Telecom. |  F. de Telecom. | F. de Telecom.  |   |
+|  17:00  | F. de Ing. de Soft.  |  F. de Ing. de Soft.  |  F. de Ing. de Soft.  | F. de Ing. de Soft.  |  |
